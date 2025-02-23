@@ -1,0 +1,12 @@
+[
+    {
+        "email": "abc@naver.com",
+        "password": "study9999!",
+        "name" : "홍길동"
+    },
+    {
+        "email": "def@naver.com",
+        "password": "hard9999!",
+        "name" : "신라면"
+    }
+]
